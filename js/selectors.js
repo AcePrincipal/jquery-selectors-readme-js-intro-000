@@ -7,6 +7,10 @@ function lastImageSelector() {
   return $('img:last');
 }
 
+function jinjaBabySelector() {
+  
+}
+
 function divSelector() {
   return $('.pics');
 }
