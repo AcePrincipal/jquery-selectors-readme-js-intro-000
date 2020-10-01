@@ -8,7 +8,7 @@ function lastImageSelector() {
 }
 
 function jinjaBabySelector() {
-  
+  return $('#')
 }
 
 function divSelector() {
